@@ -1,0 +1,14 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Gaurav Savanur",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}
